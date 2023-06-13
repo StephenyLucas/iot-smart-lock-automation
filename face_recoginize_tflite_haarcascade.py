@@ -26,7 +26,7 @@ interpreter.allocate_tensors()
 cap = cv2.VideoCapture(0,cv2.CAP_DSHOW)
 # print("Reached level 1")
 # classes_names = ["Arnav","Brendan","Jayesh","Manan","Prachi","Unknown"]
-classes_names = ["Arnav","Brendan","Jayesh","Manan","Prachi","Unknown"]
+classes_names = ["Amisha","Mitali","Sincee","Stepheny","Unknown"]
 
 
 

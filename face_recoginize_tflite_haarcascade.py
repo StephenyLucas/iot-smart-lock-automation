@@ -29,7 +29,7 @@ cap = cv2.VideoCapture(0,cv2.CAP_DSHOW)
 classes_names = ["Amisha","Mitali","Sincee","Stepheny","Unknown"]
 
 
-
+ 
 def set_input_tensor3(face_pixels):
   # scale pixel values
   face_pixels = np.asarray(face_pixels)
